@@ -1,4 +1,4 @@
-Mandarin Course — https://liemyo.github.io/mandarin/
+Mandarin Course — https://amatu-id.github.io/mandarin/
 
 Kursus bahasa Mandarin dari nol sampai ahli (HSK 1–6) dengan terjemahan Indonesia: pinyin & nada, kosakata, tata bahasa, percakapan sehari-hari, bacaan, latihan, dan modul PDF.
 
